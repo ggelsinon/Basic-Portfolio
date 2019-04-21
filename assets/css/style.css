@@ -1,0 +1,63 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both
+}
+
+.TopNav {
+    position: fixed;
+    padding: 10px 5px 10px 700px
+}
+
+.aboutme {
+    width: 960px;
+    padding: 20px;
+}
+
+.profimage {
+    width: 20%;
+    height: 30%;
+    float: left;
+}
+
+.portimage1 {
+    width: 33%;
+    height: 20%;
+}
+
+.portimage2 {
+    width: 34%;
+    height: 20%
+}
+
+.profcontent {
+    
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+    
+}
+
+h1 {
+    position: fixed;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 20px
+}
+
+h2 {
+    padding: 80px 0px 0px 0px;
+    margin: 
+}
+
+h3 {
+
+}
